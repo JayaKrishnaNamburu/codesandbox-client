@@ -17,6 +17,7 @@ import maurice from '../assets/images/people/maurice.jpg';
 import zeh from '../assets/images/people/zeh.png';
 import ceora from '../assets/images/people/ceora.jpg';
 import danilowoz from '../assets/images/people/danilowoz.jpg';
+import scott from '../assets/images/people/scott.png';
 
 const people = [
   {
@@ -112,6 +113,12 @@ const people = [
   {
     name: 'Danilo Woznica',
     pic: danilowoz,
+    color: '#F24E62',
+    team: 'Engineering',
+  },
+  {
+    name: 'Scott Hutcheson',
+    pic: scott,
     color: '#F24E62',
     team: 'Engineering',
   },
